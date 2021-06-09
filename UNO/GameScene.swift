@@ -499,7 +499,7 @@ class GameScene: SKScene,UITextFieldDelegate {
     }
     
     /*
-     let addr = "192.168.11.4"
+     let addr = ""
      let ChatPort:Int32 = 4000
      let ChatPortTCP:Int32 = 5000
      var Chat_MessageTCP:GameMaster_Message!
