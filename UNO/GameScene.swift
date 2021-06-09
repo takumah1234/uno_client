@@ -14,7 +14,7 @@ class GameScene: SKScene,UITextFieldDelegate {
     let Images = CardImages()
     let CommentIcon = SKSpriteNode(imageNamed: "comment_icon")
     
-    let addr = "192.168.11.4"
+    let addr = "PLEASE ENTER YOUR IP ADDR"
     let GMport:Int32 = 4000
     let ChatPort = 5000
     // ゲームマスター通信用の通信経路
